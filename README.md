@@ -1,6 +1,3 @@
-# super-duper-broccoli
-LLM App for AI-Makerspace Challenge
-
 ---
 title: BeyondChatGPT Demo
 emoji: 📉
